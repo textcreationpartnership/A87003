@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The worlds timely warning-peece newly corrected and amended. This being the third time presented or sent to these three nations, England, Scotland, and Ireland; describing the nearnesse of the day of the Lord, by the signes and tokens that our Saviour told his disciples should come to passe, before the last day. Being a dismall looking-glasse for the false prophets of these times to look into, which invent false imaginations, out of their own proud phantasticall brains, to deceive the simple. Written by Charles Hammond.</title>
+            <author>Hammond, Charles, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87003</idno>
+            <idno type="STC">Wing H500</idno>
+            <idno type="STC">ESTC R226173</idno>
+            <idno type="EEBO-CITATION">99895654</idno>
+            <idno type="PROQUEST">99895654</idno>
+            <idno type="VID">153238</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87003)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153238)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2355:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The worlds timely warning-peece newly corrected and amended. This being the third time presented or sent to these three nations, England, Scotland, and Ireland; describing the nearnesse of the day of the Lord, by the signes and tokens that our Saviour told his disciples should come to passe, before the last day. Being a dismall looking-glasse for the false prophets of these times to look into, which invent false imaginations, out of their own proud phantasticall brains, to deceive the simple. Written by Charles Hammond.</title>
+                  <author>Hammond, Charles, 17th cent.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Fr. Grove, at his shop on Snow-hill, near the Sarazen's head,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an additional letterpress title page, with large woodcut illustration, preceding the title page transcribed above. This additional title page functions as a frontispiece and is included in the pagination.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Disasters --  Religious aspects --  Christianity --  Early works to 1800.</term>
+               <term>Apocalyptic literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustrated_title_page">
+            <pb facs="tcp:153238:1"/>
+            <p>THE WORLDS Timely Warning-piece.</p>
+            <figure>
+               <figDesc>depiction of Last Judgment</figDesc>
+               <sp>
+                  <p>Behold I come quickly &amp; my re<g ref="char:EOLhyphen"/>ward is with me.</p>
+               </sp>
+               <sp>
+                  <p>Ariſ ye Dead &amp;</p>
+               </sp>
+               <sp>
+                  <p>Com to Iudgment.</p>
+               </sp>
+               <byline>F.G</byline>
+            </figure>
+            <lg>
+               <l>A pourfull Judg is comming, that will ſpare</l>
+               <l>No Kings nor States, then let them have a care:</l>
+               <l>He'l have account how they have rul'd his people here,</l>
+               <l>Their Armies nor their Fleets he doth not fear.</l>
+            </lg>
+            <p>
+               <hi>Licenſed, and entred according to Order.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Fr. Grove</hi> near the Sarazen's Head on Snow-hill: 1660.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:153238:2"/>
+            <pb facs="tcp:153238:2"/>
+            <p>THE WORLDS Timely Warning-peece, newly corrected and amended.</p>
+            <p>This being the third time pre<g ref="char:EOLhyphen"/>ſented or ſent to theſe three Nations, <hi>England, Scotland,</hi> and <hi>Ireland;</hi> deſcri<g ref="char:EOLhyphen"/>bing the nearneſſe of the Day of the Lord, by the ſignes and tokens that our Saviour told his Diſciples ſhould come to paſſe, before the laſt Day.</p>
+            <p>Being a diſmall Looking-glaſſe for the falſe Prophets of theſe times to look into, which invent falſe imaginations, out of their own proud phantaſticall brains, to deceive the ſimple.</p>
+            <p>Written by <hi>Charles Hammond.</hi>
+            </p>
+            <q>
+               <bibl>Theſ. 5. verſ. 2, 3.</bibl> 
+               <hi>For you your ſelves know perfectly, that the day of the Lord ſhall come even as a thief in the night. For when they ſhall cry peace and ſafety, then ſhall come upon them ſuddain deſtruction, at the travail upon a woman with child, and they ſhall not eſcape:</hi>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Fr. Grove,</hi> at his ſhop on <hi>Snow-hill,</hi> near the <hi>Sarazen's</hi> head, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="4" facs="tcp:153238:3"/>
+            <head>The Worlds timely Warning-Peece.</head>
+            <p>
+               <hi>THe end of all things is at hand, 1 Pet. 4.7. But of that day &amp; hour knoweth no man, Mat. 24.36.</hi> Their laſt words were the words of our Saviour: but if you read the enſuing verſs, you ſhall find our Saviour, as it were; points out the time to us, how we ſhall know when the time is near: <hi>For, ſaith</hi> he, <hi>as the dayes of Noah were ſo likewiſe ſhall the comming of the Son of man be. For as in the daies before the flood, they did eat and drink, marry, and give in marriage, untill the day that Noah en<g ref="char:EOLhyphen"/>tred into the Ark, and knew nothing till the flood came, and took them all away: So ſhall the com<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ming of the Son of man be. Noah</hi> knew not the day nor hour when the flood ſhould come, but he was commanded to build the Ark; but yet he knew partly the time when it would come, partly by ſigns, and then by the ripeneſſe o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſin, that the time was near at hand. So by the ſame ſimilitude, and the fulfilling of the Scriptures, which our Saviour left for u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all to take notice, how near the time w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> come: we may all eaſily conjecture, that t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> day of the Lord is near at haud; our LORD gives us, by a ſimilitude or parable of t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fig-trée, ſaying, <hi>When the bough is yet tend<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and it bringeth forth leaves, you know that ſum<g ref="char:EOLhyphen"/>mer is near: ſo likewiſe ye, when you ſee all the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hings, know that the Kingdome of God is nea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:153238:3" rendition="simple:additions"/>even at the doors, Mat. 24.</hi> If we take that ſay<g ref="char:EOLhyphen"/>ing, that as <hi>the dayes of Noah was, ſo ſhall the comming of the Son of man be.</hi>
+            </p>
+            <p>From <hi>Adam</hi> to the end of the flood was, 1656 yeares: ſo from the firſt comming of Chriſt, to the ſecond comming to judgment ſhould then be near 1656, which time is paſt two years. And if you look into the Writings of men, who formerly writ concerning this day of the Lord, you ſhall find many notable things is prove, that it is near the time. But I'le paſſe by theſe uncertain things, and in<g ref="char:EOLhyphen"/>vite you to look into the Scriptures, concer<g ref="char:EOLhyphen"/>ning this matter, where you ſhall find proofe enough, that it is near at hand: if you pleaſe to read the 24 of <hi>Matthew</hi> all over, and compare it with theſe latter times, you will conclude the diſſolution of time is near at hand, And likewiſe the 21 of <hi>Luke: And they asked him, ſaying, Maſter, vvhen ſhall theſe things be?</hi> But in the firſt place take notice, he ſpoke concern<g ref="char:EOLhyphen"/>ing the Temple, ſome were wond'ring at the beauty of it: <hi>Then</hi> ſaith he <hi>the dayes will come, wherein a ſtone ſhall not be left upon a ſtone, that ſhall not be thrown down.</hi> Take notice, I deſire you of this, that the firſt ſign was the de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>truction of the Temple, and the houſe of God <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd his Ordinances ſhall be abuſed, for then <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the beg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing of ſorrows; when the Lord <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hall ſay, <hi>Behold, the daies come, that I vvill ſend famine in the land; not a famine of bread, nor a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hirſt for vvater, but of hearing the vvord of the Lord, Amos. 8.11.</hi> Then Chriſt ſaid, <hi>Take heed <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at ye be not deceived; for many vvill come in my
+<pb n="6" facs="tcp:153238:4"/>name, ſaying, I am Chriſt; and the time draweth near. Follow ye not them.</hi> Therefore, as if he ſhould ſay, when my Houſe is deſtroyed, my Ordinances deſpiſed, my Prophets abuſed; then is the time for falſe Prophets to come and deceive you, and make you believe they are new lights; but they are but ſhadows; For, as the Apoſtle ſaith, <hi>2 Tim. 3.5. Having a ſhew of Godlyneſſe, but denying the power ther<g ref="char:EOLhyphen"/>of; turn away therefore from ſuch. For of this ſort are they which creep into houſes, and lead captive ſimple women, laden with ſins, and led away with divers luſts.</hi> I deſire you all to take notice of this, and conſider, whether theſe things are not come to paſs in our age, which the like was never known before. And in the next verſe, ſaith our Saviour, <hi>And when you hear of wars and ſeditions, be not afraid; for theſe things muſt firſt come, but the end followeth not by and by.</hi> Pray, did we not hear of Wars round about us, before we felt it, in <hi>Germany, France, Spain, Ireland?</hi> Then, ſaith he, <hi>Nation ſhall riſe againſt Nation; and Kingdome againſt Kingdome.</hi> For this we now ſee, for nation againſt na<g ref="char:EOLhyphen"/>on way juſtly be meant, between <hi>Holland</hi> and us; for all the reſt of the World are Kingdoms and under the goverment of Monarchy; yet all in a poſture of War one againſt another, and like to coutinue, except the Lord be more mercifull to us. Then, ſaith he, <hi>Great earth-quake ſhall be in divers places,</hi> which have been of late as for example: Many thouſands were de<g ref="char:EOLhyphen"/>ſtroyed of the late earth-quake, in the <hi>Summe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Iſlands, and in other places.</p>
+            <pb n="7" facs="tcp:153238:4"/>
+            <p>Hunger, and peſtilence, and fearfull things; and great ſigns ſhall there be from Heaven: Hunger and Peſtilence wée féel not yet, but other nations have felt it, as <hi>Germany,</hi> in a moſt ſad manner, and in <hi>Ireland,</hi> amongſt the natives, and wild Iriſh, both plague &amp; famine deſtroyed many of them in the year, 1652. Therefore let us conſider with our ſelves, how mercifull the Lord hath been to us, and is now, that in the midſt of judgment he is mercifull. Firſt, he ſent us the Peſtilence, then the ſword; but he hath ſtill kept famine from us, though we have had ſome ſcarcity in the Wars. I pray God our plentifulneſſe, which we enjoyed of late years, be not a cauſe to provoke the Lord to ſend the famine a<g ref="char:EOLhyphen"/>mongſt us: for many murmured when Corn was cheap, and ſaid, they ſhould be undone. Let them take heed, ſo they may to ſoon, both in this life, and in the World to come, if the Lord leaves them to themſelves. But if you be rich &amp; mighty men, will not return thanks unto God for plenty, let the poor of this Na<g ref="char:EOLhyphen"/>tion bleſſe God for his mercies to them, and let their Prayers be to continue it: For Chriſt ſaith; In the latter dayes, <hi>becauſe iniquity ſhall abound, the love of many ſhall wax cold.</hi> And ſo doth the love of the rich grow cold to the poor, as ſome for example hang'd themſelves, diſ<g ref="char:EOLhyphen"/>pairing at the bountifulneſſe and plenty that the Lord ſent. But the Lord will love them that put their truſt in him, ſaith <hi>David. Pſalm.</hi> 9.18. <hi>For the poor ſhall not alwayes forgotten the hope of the afflicted shall not periſh for ever.</hi> But to go forward, concerning the ſigns of
+<pb n="8" facs="tcp:153238:5"/>the latter day. Chriſt told, there ſhould be ſigns from Heaven. I am ſure this land, and other Nations too, hath both ſeen and felt moſt ſtrange ſights from Heaven: Here in our na<g ref="char:EOLhyphen"/>tion, was there not great and ſtrange things done, by thunder and lightning in 1652, in <hi>June</hi> and <hi>July,</hi> and many people deſtroyed by it, and houles and Churches fired and conſumed by it, in ſeverall parts of this land, And likewiſe it rained blood the twentieth of <hi>June 1653.</hi> at a place called <hi>Pool</hi> in <hi>Dorſet-ſhire,</hi> which may ful<g ref="char:EOLhyphen"/>fill the words of the Lord, which he ſpeaks by the mouth of his Prophet <hi>Joel: I wil ſhew won<g ref="char:EOLhyphen"/>ders in the Heavens, and in the earth, bloud, and fire, and pillars of ſmoak,</hi> as you may read, <hi>Joel.</hi> 3.2. where he ſpeaks of the ſigns of the laſt day. The great Eclipſes that have hapn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, you will ſay, are naturall; but ſo many, one after another, hath béen ſeldome ſéen or heard of. Moreover, 'tis ſaid, We ſhall not know the winter from the ſummer, but by the leaves of the trees, and if you have noted for this five years together, here in <hi>England,</hi> it hath been partly fulfilled; for in the midſt of Winter, mornings and evenings were like <hi>May</hi>-mor<g ref="char:EOLhyphen"/>nings, and more warmer: But in <hi>Scotland</hi> it was certified, that there was green peaſe and birds built their neſts in the midſt of winter, and the ſeaſon not known, but by the ſhort<g ref="char:EOLhyphen"/>neſſe of the dates, in 1653. Moreover, <hi>There ſhall be in thoſe dayes ſuch tribulation, as was not from the beginning of the Creation which God created unto this time, neither ſhall be.</hi> And truly I think, there was never the like ſince the
+<pb n="9" facs="tcp:153238:5"/>creation, as hath of late been, and is now, both for Wars and rumours, ſeditions, here<g ref="char:EOLhyphen"/>ſies, deſtruction, hipocriffe, falſe Prophets, en<g ref="char:EOLhyphen"/>vy and malice; the brother betraying the bro<g ref="char:EOLhyphen"/>ther, the Father the ſon, the Son the Father: Will not one friend ſell the life of another now adaies? When was ever the like heard or read of, in any age before? I deſire you all that hear this book, conſider it, and ſleight it out; for this is no falſe Propheſie that you hear, this is Chriſts Propheſie, which he left us to look into, that we may not be deluded in theſe times, as, I am afraid, too many are, and run after their own inventions, and will take upon them to propheſie, and to teach o<g ref="char:EOLhyphen"/>thers, when, alaſs poor ſouls, they are igno<g ref="char:EOLhyphen"/>rant of what they do, and out of a proud opi<g ref="char:EOLhyphen"/>nion, and out of a falſe deluſion, ſeek to bring ſwift deſtruction upon themſelves, and others: ſuch as deſpiſe the learned Miniſters of the Goſpel, and think none ſo worthy as them<g ref="char:EOLhyphen"/>ſelves, to handle the word of God: that can ſcarce read true Engliſh, yet will take upon them to interprete the Scriptures. Chriſt ſaith, that the Goſpel muſt be publiſhed in all natious, before this time come. I would fain know of theſe men, whether they muſt do it, or the learned Miniſtry: Have they their Greek, Latin, or Hebrew tongue, to Travel all over the world to preach this Goſpell? in other nations, their Engliſh tongue will not ſerve; but in all nations of the World, either Latin, Greek, or Hebrew will be undeſtood. Therefore, whether you are the men, to finiſh
+<pb n="10" facs="tcp:153238:6"/>this great work of the Lord, or Schollars, I leave it to yourſelves to judge of it. I leave you this place of Scripture, 2 <hi>Pet.</hi> 3. if you read the Chapter before, you ſhall read what ſhall come in theſe laſt dayes. Now you that read thoſe places, conſider ſeriouſly on them, and deſire God to direct your hearts, in true knowledge and interpretation of theſe Scriptures, and no doubt, but you ſhall find the true ſence of it,</p>
+            <p>I would maſters and parents would in<g ref="char:EOLhyphen"/>ſtruct their children and ſervants more than they do, they would not be ſo diſobedient as they be, both to their maſters and parents, and to their elders and ſuperiours. Nor will I not be partiall, but with reverence may tell ſome of the Clergy, that it is long of them, that the word of God, and his Ordinance too, is evill ſpoken of, <hi>Titus Chap.</hi> 2. ſhews you what you ought to be, and what you ought to do; for indeed, the eyes of the people are upon the Miniſters. I and juſt cauſe they have had indeed, for it is a gallant thing to ſee one of that coat, that can ſay, he hath been no time-ſerver, he hath been no breeder of divi<g ref="char:EOLhyphen"/>ſions, he hath been no covetous perſon, who would leave his flock, if they were little, to get a greater, ſo he might get the bigger fleece. But becauſe there are ſuch, are there none that doth the work of the Lord faithfully? Yes, the Lord be praiſed there be, and I pray God continue them amongſt us, and let us be ſure to hearken unto them: For he that preaches the word of God boldly, not fearing
+<pb n="11" facs="tcp:153238:6"/>man, but God, whoſe meſſenger he is, not medling with theſe frivolous things, that happens in theſe laſt dayes, which muſt come to paſs: For when Chriſt told his Diſ<g ref="char:EOLhyphen"/>ciples of theſe latter daies, and what ſhould come to paſs, he ſaith, <hi>Heaven and earth ſhall paſs away, but my words ſhall not paſs away.</hi> So having, with that ſmall underſtanding that I have, told you the poſſibility and cer<g ref="char:EOLhyphen"/>tainty of the diſſolution of time, or day of doom, which if you pleaſe, by the propheſy of our Saviour, as you ſhall find it in the 24. of <hi>Matthew,</hi> 13 of <hi>Mark,</hi> and the 21 of <hi>Luke,</hi> which you may read at your leaſure, and you ſhall find it all agree as one-doctrine, which was writ by the thrée Evangeliſts. Therefore let me deſire you to prepare for it, for it will come unlook'd for to a great many, I am a<g ref="char:EOLhyphen"/>fraid, as a thief in the night, or as a ſnare, wherein it will catch us at unawares. Per<g ref="char:EOLhyphen"/>haps ſome may ſcoff at this Book, and ſay, How can he tell more than another, and this was a long time ago writ, and ſtill all things remain as it did many hundred years: Yet I muſt anſwer ſuch as theſe in the 2 <hi>Pet.</hi> 2.3. to the end of the Chapter, where you find the Apoſtle tells you of theſe men, which I deſire you to read, and it will give you full ſatisfac<g ref="char:EOLhyphen"/>tion. Now to invite you for preparation for this day of the Lord, I ſhall give you a word or two more, which will terrifie the ungodly, and be joyfull tidings to thoſe, that are prepa<g ref="char:EOLhyphen"/>red to meet the Lord at that day. Let the ter<g ref="char:EOLhyphen"/>rableneſſe of this day awaken us all from our
+<pb n="12" facs="tcp:153238:7"/>grievous Sinnes and Tranſgreſſions: if we muſt give account for every idle word, what account ſhall we give for every idle oath, nay, for every falſe oath that we have taken. <hi>With Righteouſneſs will he judge the World, and the people with equity, Pſal.</hi> 58.9. Brides, friends, mireaties, houlings, cryes, lamentations, nothing will then prevaile, but a pure heart, and a ſpirit upright. St. <hi>Jerom</hi> ſaith, whether <hi>I</hi> eat or drink, or whatſoever <hi>I</hi> do elſe, me<g ref="char:EOLhyphen"/>thinks <hi>I</hi> hear this ſaying ſounding in my eares, <hi>Ariſe you Dead, and come to Judgment; I</hi> with the like conſideration were in us all. The Lord grant to all <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one with ano<g ref="char:EOLhyphen"/>ther, his grace, that they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this Scrip<g ref="char:EOLhyphen"/>ture ſounding in their ears, <hi>Of every idle word that men ſhall ſpeak, they ſhall give an accoun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thereof at the day of judgment. It</hi> is the duty of every Chriſtian, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that vigilant per<g ref="char:EOLhyphen"/>ſon, that carred alwayes in his pocket a lit<g ref="char:EOLhyphen"/>tle clock, and when he heard it ſound, he would inſtantly examine himſelf, how he had ſpent that hour. Thu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhould Chriſtians ex<g ref="char:EOLhyphen"/>amine themſelves, that they may not be exa<g ref="char:EOLhyphen"/>mined of the Lord; for Chriſt muſt be the judge at the laſt day, and he will uſe no par<g ref="char:EOLhyphen"/>tiality, but the Lord will reward every man according to his works: He is a judge, that hath no reſpect of perſons, This World may fitly be compared to a ſtage-play, wherein they act ſeverall parts; one acts the part of a King, another a Noble man, another a Magi<g ref="char:EOLhyphen"/>ſtrate, another a Country-man, another a ſervant, another a beggar; and ſo lang as they
+<pb n="13" facs="tcp:153238:7"/>are upon the ſtage, ſo long there is report to their parts, they play one of another amongſt them; but when the play is ended, and the ſtage pull'd down, there is no reſpect amongſt them yea, many times, he that plaid the baſeſt part is the beſt man. So it is here on earth, every man hath reſpect, according to the honour and vocation he hath: but when the Comedy ſhall be ended; that is, the day of doome ſhall come upon all men, and the earth, which is the ſtage, pull'd down, there ſhall be no reſpect of perſons among men; yea, it may be, the poor man ſhall be greater before God, than the ho<g ref="char:EOLhyphen"/>nourable or rich man. Conſider this you poor and rich. Then ſhall the book be opened the evidence of thy works in this life, and thy ſins ſet in order before thy eyes. Heaven and earth ſhall witneſſe againſt thée, yea, thy own conſcience ſhall condemn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. O it will be a terrour to thée, when thou ſhalt ſée the judge angrie with thée for thy ſins; and the bleſſed Angels laughing at thy deſtruction; on thy right hand ſhal be thy ſins accuſing thée; on thy left hand, Devils readie to execute Gods vengeance upon thée; within thée ſhalile thy conſcience gnawing, without thée the dam<g ref="char:EOLhyphen"/>ned crue bewailing: And then ſhalt thou re<g ref="char:EOLhyphen"/>ceive that lamentable ſentence, <hi>Go from me ye curſed into everlaſting fire, which is prepared for the devill and his angels.</hi> Theſe words wil cut thy heart in ſunder, <hi>Go from me.</hi> Hitherto <hi>I</hi> have béen a father to thee, I have beſtowed manie comfortable benefits upon thée, I have had great care over thée: But now go from
+<pb n="14" facs="tcp:153238:8"/>me into torments unexpreſſable, where thou ſhalt cry unto me: But I will not hear thee. Good people, that hear this Book take timely warning. O that men would remember their end, then they would never offend. Oh that men would ſet alwayes before their eyes the day of death, the day of judgement, the joy<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of Heaven, the torments of Hell; then men would not live ſo looſly as they do. St. <hi>Paul</hi> ſaith in the <hi>Corinthians,</hi> they were them, upon whom the ends of the World ſhould come. If therefore the end of the World were come upon them, that lived above 1580 and odde yeares ago, then ſurely dooms-day cannot be far off. 1 <hi>Corinth.</hi> 20.11. <hi>Behold the judge ſtandeth before the door, Jain.</hi> 5, 6. So by theſe two places of Scripture we ſee, that the Generall day of judgment is at hand, as alſo by the ſigns and tokens which ſhould go before this day, of which many, yea almoſt all, are already ful<g ref="char:EOLhyphen"/>filled. But put the caſe, the time were not ſo neer as it is imagined, yet death is the day of doom to thee. Many in their youth delay their repentance till their age, thinking this place of Scripture ſufficient, <hi>Ezek.</hi> 17.21, 22. <hi>At what time ſoever a ſinner, &amp;c.</hi> Or ſay as <hi>Auguſtine</hi> ſaid before his converſion, <hi>Forgive me my ſinns, but not now; let me ſinne in my youth and pardon me in my age.</hi> They would die the death of the righteous, but they would not live the life of the righteous. But let theſe graceleſſe perſons beware of theſe two things: firſt, let them beware of ſuddain death, let them take heed they be not cut off in the midſt of their ſinnes,
+<pb n="15" facs="tcp:153238:8"/>as <hi>Job's</hi> Children wer<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> the midſt of their banquetting, and as the flood came unlook'd for, and devoured the whole World; as of fate ſuddain death hath ſeized on many, both in <hi>London,</hi> and in the Country, by ſtrange ſick<g ref="char:EOLhyphen"/>neſſes and diſeaſes. Conſider I pray, how many families hath there been ſhatter'd laſt year, and ſtill continues, taking the young as well as the old, the ſtrong as well as the weak: Nay, as I may ſay, the ſtrong Oaks, and tall Cedars hath been cut down, and the low ſhrubs ſtanding. Therefore I deſire you all to take heed, to live today, as you may be readie to die to morrow. The old World had 120 years to repent in, Ninevey had 40 daies, <hi>Iſrael</hi> had 40 years to repent in: But thou, O man, knoweſt not how long thou haſt to live, thou haſt no leaſe of thy life, thou art here to day, and gone to morrow; death waiteth for thee at all times, therefore wait thou for it. There<g ref="char:EOLhyphen"/>fore to conclude, I deſire you, to let this book be a looking-glaſs, in theſe dangerous and laſt times, and reſolve with St. <hi>Jerom's</hi> reſo<g ref="char:EOLhyphen"/>lution, who ſaid, If my mother were hanging about my neck, if my brother were on every ſide houling and crying, and if my father were on his bare knées knéeling before me, to de<g ref="char:EOLhyphen"/>tain me in their wicked and ſinfull courſe of life: What would I do? ſhake off my mother on the ground, I would hate all my Kindred and Kinsfolks, and I would tread and tram<g ref="char:EOLhyphen"/>ple my father under feet, thereby to flys to Chriſt when he calleth me. So the Lord ena<g ref="char:EOLhyphen"/>ble us to do, that ſo we may run that race here
+<pb n="16" facs="tcp:153238:9"/>that we may receive the crown of glorie here after; that we may fight that good fight, againſt the World, the Fleſh, and the Devil: that we may be received into that heavealy Army of Saints, and follow that General, Chriſt Jeſus which conquered ſinne, death and hell, being clothed with the white robes of peace and righteouſneſſe: Then with joy and comfort ſhall we hear that bleſſed voice, as <hi>Come ye bleſſed children of my Father, inherit the Kingdome which was prepared for you before the beginning of the World.</hi> Grant this dear Fa<g ref="char:EOLhyphen"/>ther, for thy dear Son's ſake Chriſt Jeſus, our onely Lord and Saviour; to whom be aſ<g ref="char:EOLhyphen"/>ceived all honour and praiſe, both now and for evermore, Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153238:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
